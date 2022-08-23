@@ -16,9 +16,13 @@
 
 ## Watch CSS changes in CSS files
 
+Auto-generated styles.css file for development (src/css/styles.css)
+
 ``` npm run css-watch ```
 
-## Create the CSS output file (dist/css/styles.css)
+## Create the CSS output file
+
+ Auto-generated styles.css file for production (dist/css/styles.css)
 
 ``` npm run css-build ```
 
