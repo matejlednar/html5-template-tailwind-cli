@@ -1,9 +1,12 @@
 # HTML 5 template + Tailwind CSS (CLI)
 
-- src/css/main.css - place your CSS here
-- src/css/tailwind.css - place tailwind functions, directives, etc. here
-- src/css/styles.css - auto-generated CSS by watch script (don't edit)
-- src/js/script.js - place your JavaScript here
+## File structure
+
+- src/css/main.css - place your CSS here,
+- src/css/tailwind.css - place tailwind functions, directives, etc. here,
+- src/css/styles.css - auto-generated CSS by watch script (don't edit),
+- src/js/script.js - place your JavaScript here,
+- src/index.html - place your HTML here,
 
 ## Prerequisites
 
