@@ -17,13 +17,17 @@
 
 ```npm install```
 
-## Watch CSS changes in CSS files
+## Development
 
-Auto-generated styles.css file for development (src/css/styles.css)
+### Watch CSS changes in CSS files
+
+Auto-generated styles.css file for development (src/css/styles.css). Don't edit src/css/styles.css. Use main.css for styling.
 
 ``` npm run css-watch ```
 
-## Create the CSS output file
+## Build
+
+### Create the CSS output file
 
  Auto-generated styles.css file for production (dist/css/styles.css)
 
